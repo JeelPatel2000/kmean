@@ -3,6 +3,7 @@ require 'gosu'
 OFF_X = 200
 OFF_Y = 400
 #new commnet added
+# new cmt
 class DataPoint 
     attr_accessor :x, :y, :group
     def initialize(x1,x2,y1,y2)
